@@ -4,17 +4,17 @@ bash、shell下的操控GPIO的脚本。
 
 首先让其可执行：
 ```
-chmod +x ./power.sh
+chmod +x ./power_orangepi.sh
 ```
 
 让GPIO2点亮LED
 
 ```
-./power 2 1
+./power_orangepi 2 1
 ```
 
 关闭LED
 
 ```
-./power 2 0
+./power_orangepi 2 0
 ```
