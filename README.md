@@ -2,7 +2,9 @@
 
 bash、shell下的操控GPIO的脚本。
 
-首先让其可执行：
+
+
+以orangepi为例，首先让其可执行：
 ```
 chmod +x ./power_orangepi.sh
 ```
