@@ -3,8 +3,10 @@
 bash、shell下的操控GPIO的脚本。
 
 
+## orangepi 的用法：
 
-以orangepi为例，首先让其可执行：
+让脚本可执行
+
 ```
 chmod +x ./power_orangepi.sh
 ```
@@ -22,8 +24,10 @@ chmod +x ./power_orangepi.sh
 ```
 
 
+## raspberrypi 的用法：
 
-以raspberrypi为例，首先让其可执行：
+让脚本可执行：
+
 ```
 chmod +x ./power_raspberrypi.sh
 ```
